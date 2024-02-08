@@ -107,5 +107,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+### Employee
+![Screenshot 2024-02-08 135539](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/3b18b9e2-eece-4815-91ac-5ded3d7cd2e7)
+### Weather
+![Screenshot 2024-02-08 140356](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/ffa2ea76-b0e5-4e90-b7d0-71774eef1797)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
