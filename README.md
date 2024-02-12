@@ -53,6 +53,11 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+# EMPLOYEE DATA
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/0a8d8cc6-716d-4c10-a7be-7aba1b352113)
+# WEATHER DATA
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/74727776-bd92-4efa-b598-d878fdb307cd)
+
 
 
 
@@ -75,6 +80,12 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+# EMPLOYEE DATA
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/adef4b35-3120-4a5d-90a3-fffd50bac062)
+
+# WEATHER DATA
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/ee9baa95-ddba-41a2-aa1e-0677732f40aa)
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +102,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+# EMPLOYEE DATA
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/2d88f406-8231-41cb-83af-d8bd98d1ea16)
+
+# WEATHER DATA
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/3f2c2869-6161-4957-9713-16f9ab5e2c5b)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,10 +123,12 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-### Employee
-![Screenshot 2024-02-08 135539](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/3b18b9e2-eece-4815-91ac-5ded3d7cd2e7)
-### Weather
-![Screenshot 2024-02-08 140356](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/ffa2ea76-b0e5-4e90-b7d0-71774eef1797)
+### EMPLOYEE DATA
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/22f0f29a-5a03-4d9c-b4d9-3fd3bdc3c66c)
+
+### WEATHER DATA
+![image](https://github.com/amurthavaahininagarajan/WDM_EXP1/assets/118679102/fd93ffd2-6081-4e37-9736-32d14410f330)
+
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
